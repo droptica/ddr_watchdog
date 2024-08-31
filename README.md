@@ -21,8 +21,7 @@ php core/scripts/drupal recipe recipes/contrib/drupal_recipe_test_03
 
 ## Contact
 
-Grzegorz Bartman - Co-Founder & Co-CEO at [Droptica](https://www.droptica.com) | [Personal website](https://www.gbartman.com)
-
+https://www.droptica.com
 
 ## Changelog
 
