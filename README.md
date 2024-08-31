@@ -2,8 +2,12 @@
 
 ## Recipe description
 
-@todo
+This recipe includes improvements for the Watchdog (dblog) module.
+The recipe adds views that make browsing system logs more convenient.
 
+The Watchdog Advanced view has more filters than the standard view, such as a user filter to quickly find logs related to a specific user.
+
+The Summary view provides a summary of log types, allowing you to see, for example, how many error logs were recorded in the last 24 hours.
 ## Installation
 
 
