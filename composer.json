@@ -1,0 +1,22 @@
+{
+    "name": "droptica/ddr_watchdog",
+    "type": "drupal-recipe",
+    "version": "dev-main",
+    "description": "Droptica’s Drupal Recipes: Watchdog",
+    "keywords": ["recipe", "Drupal recipes", "Drupal recipe"],
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "drupal/core": ">=10.3"
+    },
+    "authors": [
+        {
+            "name": "Grzegorz Bartman",
+            "role": "Maintainer",
+            "company": "Droptica"
+        },
+        {
+            "name": "Droptica",
+            "role": "Company"
+        }
+    ]
+}

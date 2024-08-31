@@ -1,0 +1,7 @@
+name: 'Watchdog'
+type: 'Droptica’s Drupal Recipes'
+description: "Addons for Watchdog (Dblog) module"
+
+install:
+  - dblog
+  - user
